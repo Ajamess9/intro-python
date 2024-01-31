@@ -1,0 +1,3 @@
+"I think that computer programing is when a person uses a computer to do certain thing on there like make stuff and be able to create different websites that are helpful for people around the world to use"
+"my favorite food is chicken sandwhiches and fries or  alfredo"
+"I would make the chicken sandwhich from scratch and find different recipes online to use for it. The alfredo i could make all different types to eat there is multiple choices i can use to eat i can use chicken steake alfredo sauce homemade spagheti noodles or rasta noodles and make a 4 cheese sauce for it"
