@@ -1,0 +1,6 @@
+An example of abstraction is a game system that can be built up with so much storage and the fans not be able to process and run longer like a PS4. For example, the ps5 is newer and has a lot of storage to use on the games and it can run so much easy to be in there.
+
+The difference between an integer and a float is  a float uses ( ) to type into stuff and an integer does not use any of that it prints types.
+
+the python use variables to  store the data and how much data you need .
+ the situation i would be in is a fortnite game and a area of the map is to crowded and the other part isn't. it can be a lot of people there and i get killed or knocked by a whole team because it's no space for wepons 
